@@ -1,9 +1,9 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Coin Flip Assignment](#)
+  - [Coin Flip Assignment](#coin-flip-assignment)
   - [Built with](#built-with)
-  - [Screenshot](#screenshot)
+  - [In Action](#in-action)
 
 ## Overview
 ### Coin Flip Assignment
@@ -13,12 +13,12 @@ This is a Coin flip game where the user has a balance and can bet money on heads
 Built using visual studio code so all the files are .cpp files.
 
 
-###Built with
+### Built with
 
 - C
 - srand (randomizer library)
 
-### In action
+### In Action
 This is how a run would look like:
 ```
 You have 100 SEK. How much would you like to bet? ***10***
