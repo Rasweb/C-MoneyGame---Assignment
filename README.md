@@ -21,13 +21,13 @@ Built using visual studio code so all the files are .cpp files.
 ### In Action
 This is how a run would look like:
 ```
-You have 100 SEK. How much would you like to bet? ***10***
-What do you bet on (h/t): ***h***
+You have 100 SEK. How much would you like to bet? 10
+What do you bet on (h/t): h
 Tossing the coin...
 It is tails.
 You have lost 10 SEK
-You have 90 SEK. How much would you like to bet? ***20***
-What do you bet on (h/t): ***t***
+You have 90 SEK. How much would you like to bet? 20
+What do you bet on (h/t): t
 Tossing the coin...
 It is tails.
 You have won 20 SEK
